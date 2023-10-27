@@ -12,7 +12,7 @@ To see the project, just go to Heroku where it is deployed. To install it, clone
 
 To use the application, either go to Heroku or local server with the code on your computer, and simply run the code.
 
-Heroku Deployed Application - 
+Heroku Deployed Application - https://pwa-text-editor-code-be1a957784b7.herokuapp.com
 
 ## Credits
 
